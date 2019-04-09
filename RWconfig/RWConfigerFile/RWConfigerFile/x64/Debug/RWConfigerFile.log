@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  RWConfigerFile.cpp
+  config_file.cpp
+f:\3d\rwconfig\rwconfigerfile\rwconfigerfile\config_file.cpp(348): warning C4101: “e”: 未引用的局部变量
+f:\3d\rwconfig\rwconfigerfile\rwconfigerfile\config_file.cpp(383): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  RWConfigerFile.vcxproj -> F:\3D\RWconfig\RWConfigerFile\RWConfigerFile\..\..\Bin\RWConfigerFile.exe
+  RWConfigerFile.vcxproj -> ..\..\Bin\RWConfigerFile.pdb (Full PDB)
